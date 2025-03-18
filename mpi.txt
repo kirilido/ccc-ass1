@@ -1,0 +1,4 @@
+1. .slurm file is the file to include the code file and setting up the core and cpu requirement
+2. find the 2019Rsample.slurm for a sample
+3. you should know the module setting:
+	
